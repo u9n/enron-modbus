@@ -11,13 +11,6 @@ wouldn't really fit in another project
 We are mostly interested in the `History Readout` feature and might not implement the 
 other special cases unless we need to.
 
-# Installation
-
-Install via pip, only support python 3.6+
-
-```
-pip install enron-modbus
-```
 
 # Example usage
 
